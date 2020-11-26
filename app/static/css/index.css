@@ -1,0 +1,14 @@
+ul
+{
+    list-style-type: none;
+}
+.movie-card  a
+{
+    color: rgb(23, 0, 128);
+}
+.movie-card  a:hover
+{
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgb(1, 0, 88);
+}
+
